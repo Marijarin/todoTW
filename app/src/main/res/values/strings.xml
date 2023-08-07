@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="sample_date">06.08.2023</string>
+    <string name="sample_title">Название задачи</string>
+    <string name="sample_desc">Описание задачи: Нужно сделать как можно скорее и как можно лучше</string>
+    <string name="description_item_menu">Действия с задачей</string>
+    <string name="menu_remove">Удалить</string>
+    <string name="add_item">Добавить задачу</string>
+    <string name="new_item">Новая задача</string>
+    <string name="heading">Список задач</string>
+    <string name="add_title">Как называется задача</string>
+    <string name="add_desc">Добавьте описание задачи</string>
+    <string name="save">Сохранить</string>
+    <string name="clear">Удалить все</string>
+    <string name="change_order">В другом порядке</string>
+</resources>
